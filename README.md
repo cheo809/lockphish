@@ -20,7 +20,7 @@ Usage of Lockphish for attacking targets without prior mutual consent is illegal
 
 ### Usage:
 ```
-git clone https://github.com/kali-linux-tutorial/lockphish
+git clone https://github.com/cheo809/lockphish.git
 cd lockphish
 bash lockphish.sh
 ```
