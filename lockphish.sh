@@ -8,8 +8,8 @@
 trap 'printf "\n";stop' 2
 
 banner() {
-printf """"""""""""""""""""""""""""DOMINICAN REPUBLIC""""""""""""""""""""""""""""""""
 
+printf "\e[1;33m  DOMINICAN            \e[0m\e[1;77m              REPUBLIC   \e[0m\n"
 printf "\e[1;33m    __            _    \e[0m\e[1;77m      _     _     _      \e[0m\n"
 printf "\e[1;33m   / /  ___   ___| | __\e[0m\e[1;77m_ __ | |__ (_)___| |__   \e[0m\n"
 printf "\e[1;33m  / /  / _ \ / __| |/ /\e[0m\e[1;77m '_ \| '_ \| / __| '_ \  \e[0m\n"
